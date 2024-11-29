@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  }
+  input {
+  padding: 10px;
+  margin: 10px;
+  }
+  button {
+  padding: 10px;
+  margin: 10px;
+  }
+  .task {
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin: 10px auto;
+  width: 200px;
+  border-radius: 5px;
+  }
